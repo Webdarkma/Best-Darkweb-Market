@@ -2,7 +2,7 @@
     <article>
         <header>
             <h1>Darknet Markets: What You Should Know About Dark Web Marketplaces</h1>
-          # Best-Darkweb-Market
+          <p><img src="https://globaldarknet.com/assets/images/blog/torrez01.png?semt=ais_user" alt="Darknet" title=" the Darknet World" /></p>
 <ul dir="auto">
   <li>
 <p dir="auto"><a href="http://alphaa3u7wqyqjqctrr44bs76ylhfibeqoco2wyya4fnrjwr77x2tbqd.onion" rel="nofollow">Alphabay Market</a> - <code>http://alphaa3u7wqyqjqctrr44bs76ylhfibeqoco2wyya4fnrjwr77x2tbqd.onion</code></p>
